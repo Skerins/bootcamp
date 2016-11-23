@@ -1,0 +1,56 @@
+/* -------- TIC TAC TOE STYLES ------------
+tr {
+	height: 133px;
+}
+
+td {
+	width: 133px;
+}
+
+table#tic-tac {
+    width: 400px;
+    height: 400px;
+    margin: 10px auto;
+    border-spacing: 0;
+}
+
+table#tic-tac tr:nth-child(1) {
+    height: auto;
+}
+
+table#tic-tac tr td:nth-child(1) {
+    border-right: 1px solid #000;
+    width: 133px;
+}
+
+table#tic-tac tr td:nth-child(3) {
+    border-left: 1px solid #000;
+    width: 133px;
+}
+
+table#tic-tac tr:nth-child(3) td {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+*/
+
+/* -------  IMAGES -------
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: Raleway;
+	margin-left: 2.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
+
+*/
